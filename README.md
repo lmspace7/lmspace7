@@ -1,7 +1,7 @@
 # Hi there 👋
 
-저는 Unity를 활용해 게임을 개발하는 개발자입니다.  
-현재는 여러 프로젝트를 준비 중이며, 곧 제 포트폴리오를 업데이트할 예정입니다. 🚀  
+저는 Unity와 C#을 활용해 게임을 개발하고 있는 개발자입니다.  
+현재 다양한 프로젝트를 진행하며, 개발 과정과 배운 내용을 블로그에 기록하고 있습니다. ✍️  
 
 ## 🛠 Tech Stack
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
@@ -9,11 +9,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
+## 📖 Blog
+개발 기록과 프로젝트 진행 과정을 블로그에 정리하고 있습니다.  
+👉 [lmsspace7.github.io](https://lmsspace7.github.io/)
+
 ## 📌 About Me
 - 🎮 게임 클라이언트 개발에 관심이 있습니다.  
-- 📚 꾸준히 Unity와 C# 심화 공부를 하고 있습니다.  
-- ✨ 앞으로 프로젝트와 데모를 이곳에 정리할 예정입니다.  
-
----
-
-👉 [My Portfolio Page](https://lmsspace7.github.io/) (현재 준비 중)
+- 📝 개발 중 겪은 문제 해결 방법을 블로그에 공유합니다.  
+- 🚀 학습과 실험을 통해 새로운 게임 아이디어를 탐구하고 있습니다.  
