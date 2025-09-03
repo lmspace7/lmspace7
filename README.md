@@ -11,7 +11,7 @@
 
 ## 📖 Blog
 개발 기록과 프로젝트 진행 과정을 블로그에 정리하고 있습니다.  
-👉 [lmspace7.github.io](https://lmsspace7.github.io/)
+👉 [lmspace7.github.io](https://lmspace7.github.io/)
 
 ## 📌 About Me
 - 🎮 게임 클라이언트 개발에 관심이 있습니다.  
