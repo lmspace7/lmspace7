@@ -17,3 +17,6 @@
 - 🎮 게임 클라이언트 개발에 관심이 있습니다.  
 - 📝 개발 중 겪은 문제 해결 방법을 블로그에 공유합니다.  
 - 🚀 학습과 실험을 통해 새로운 게임 아이디어를 탐구하고 있습니다.  
+
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
