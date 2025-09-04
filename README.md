@@ -19,4 +19,4 @@
 - 🚀 학습과 실험을 통해 새로운 게임 아이디어를 탐구하고 있습니다.  
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![lmspace7's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lmsspace7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
