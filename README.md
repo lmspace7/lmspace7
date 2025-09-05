@@ -1,6 +1,6 @@
 <!-- 깃허브 물결 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b9fbc0&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
 </p>
 
 # <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/hand.svg" width="22" /> 안녕하세요
