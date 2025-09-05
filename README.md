@@ -1,22 +1,14 @@
 <!-- 깃허브 물결 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=안녕하세요!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- 인사말 (중앙 정렬) -->
+<!-- 인사말 (아이콘 포함, 배너 바로 아래 중앙 정렬) -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/hand.svg" width="25" /> 안녕하세요
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="20" /> Unity와 C#을 활용해 <b>게임 개발</b>을 하고 있는 개발자입니다.<br/>
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rocket.svg" width="20" /> 새로운 아이디어를 실험하고, 배운 내용을 블로그에 기록하며 성장하고 있습니다.
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wrench.svg" width="22" /> 기술 스택
-
+<!-- 기술 스택 바로 아래 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
@@ -24,6 +16,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
+
+---
 
 ## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-open.svg" width="22" /> 블로그
 
