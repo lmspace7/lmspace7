@@ -1,6 +1,6 @@
 <!-- 깃허브 물결 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=환영합니다!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- 기술 스택 바로 아래 -->
@@ -14,16 +14,10 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-open.svg" width="22" /> 블로그
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-open.svg" width="22" /> Link
 
-개발 기록과 프로젝트 진행 과정을 블로그에 정리하고 있습니다.  
 
 🔗 [lmspace7.github.io](https://lmspace7.github.io/)
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/pin.svg" width="22" /> 소개
-
-- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/gamepad-2.svg" width="18" /> 게임 클라이언트 개발에 관심이 있습니다.  
-- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book.svg" width="18" /> 개발 중 겪은 문제 해결 방법을 블로그에 공유합니다.  
-- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/compass.svg" width="18" /> 학습과 실험을 통해 새로운 게임 아이디어를 탐구합니다.  
 
 ---
