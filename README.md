@@ -1,6 +1,6 @@
 <!-- 깃허브 물결 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=안녕하세요!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=환영합니다!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- 기술 스택 바로 아래 -->
