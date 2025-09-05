@@ -18,6 +18,7 @@
 
 
 🔗 [lmspace7.github.io](https://lmspace7.github.io/)
+개발 기록과 프로젝트 진행 과정을 블로그에 정리하고 있습니다.  
 
 ## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/pin.svg" width="22" /> About
 
