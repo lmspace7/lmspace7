@@ -1,3 +1,8 @@
+<!-- 깃허브 물결 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
+</p>
+
 # <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/hand.svg" width="22" /> 안녕하세요
 
 <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="20" /> Unity와 C#을 활용해 **게임 개발**을 하고 있는 개발자입니다.  
