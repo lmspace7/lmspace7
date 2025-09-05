@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=200&section=header&text=안녕하세요!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wrench.svg" width="22" /> 기술 스택
-</h2>
 <!-- 기술 스택 바로 아래 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
